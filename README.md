@@ -1,6 +1,6 @@
 
 
-# Orders Analysis Application
+# Sales Analytics Tool - Dockerized File
 
 This repository contains a Python application for analyzing customer orders from an online store. The application performs the following tasks:
 
