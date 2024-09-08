@@ -171,6 +171,6 @@ cd orders_analysis
 
 This repository provides a comprehensive solution for analyzing customer orders. You can run the application and tests using Docker for a consistent environment, or directly on your local machine with Python and Pipenv. Follow the instructions in this README to set up and use the application effectively.
 
-For any issues or contributions, feel free to open an issue or pull request on the [GitHub repository](https://github.com/anasjawed283/orders_analysis).
+For any issues or contributions, feel free to open an issue or pull request on the [GitHub repository](https://github.com/CLASPOG/SalesAnalyticsTool-Dockerized).
 
 ---
